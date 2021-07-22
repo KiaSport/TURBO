@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GD73M6FT47OXMRQZS5LBX6BK2HNSJOMNZYGPMEGKRPX4ANZUYHSGRXWJ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="Turbo Coin"
+ORG_URL="http://turboproject.org/"
+ORG_DESCRIPTION="With Turbo Coin You Can Buy Smart Leverage Tokens.By Owning Turbo Coin You Are Part of The First Decentralised Liquidity Pool!."
+ORG_TWITTER="@turbo_coin"
+ORG_LOGO="https://i.ibb.co/Dt2RvQS/1767.png"
+ORG_OFFICIAL_EMAIL="contact@turbocoin.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="TURBO"
+issuer="GD73M6FT47OXMRQZS5LBX6BK2HNSJOMNZYGPMEGKRPX4ANZUYHSGRXWJ"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="Turbo Coin"
+desc="A turbocharger, colloquially known as turbo, is a turbine-driven, forced induction device that increases an internal combustion engine's power output by forcing extra compressed air into the combustion chamber."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/Dt2RvQS/1767.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Turbo Coin was issued using the open and inclusive Stellar blockchain network.
